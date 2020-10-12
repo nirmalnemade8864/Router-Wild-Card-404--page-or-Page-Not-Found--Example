@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Page';
+
+  title = 'angular-project5';
+
+  name = 'Peter'
+
+  msg = "hello from felix"
+
+  fullName = "Felix ITs"
+
+  birthday = new Date(1993, 3, 6)
+
 }
+
